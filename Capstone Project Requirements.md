@@ -52,17 +52,17 @@ Your project should integrate at least two datasets or a single, substantial dat
 
 2. Data Exploration and Analysis:
 Use Python libraries (e.g., pandas, matplotlib, seaborn, scikit-learn) to perform a complete exploratory data analysis (EDA). Document key insights, including:
--- Articulate the size and shape of the dataset.
--- Comment on data quality with respect to null values or missing data.
--- Describe the data types of all features.
--- Select a target column for analysis.
--- Provide descriptive statistics and information for the entire dataset.
--- Identify and comment on outliers within the dataset.
--- Create plots for each categorical column, showing categorical feature distributions.
--- Generate appropriate charts for numerical features, both individually and in relation to the target column.
--- Calculate and display correlations between numerical features and the target feature.
--- Identify any other significant relationships or patterns within the data.
--- Summarize findings from these EDA steps, highlighting key insights and implications for the project.
+    - Articulate the size and shape of the dataset.
+    - Comment on data quality with respect to null values or missing data.
+    - Describe the data types of all features.
+    - Select a target column for analysis.
+    - Provide descriptive statistics and information for the entire dataset.
+    - Identify and comment on outliers within the dataset.
+    - Create plots for each categorical column, showing categorical feature distributions.
+    - Generate appropriate charts for numerical features, both individually and in relation to the target column.
+    - Calculate and display correlations between numerical features and the target feature.
+    - Identify any other significant relationships or patterns within the data.
+    - Summarize findings from these EDA steps, highlighting key insights and implications for the project.
 
 3. Visual Exploration:
 Based on the project’s objectives, create at least five visualizations using Python or Power BI. Explain your choice of visualization type and tool for each.
@@ -75,4 +75,4 @@ Prepare a report in either Power BI (with at least three pages and a summary das
 
 Note: If the minimum criteria above are not met, the project will be deemed incomplete, and you will not pass the assessment.
 
-![Image](https://i.imgur.com/jcl6Px4.png)
+![Capstone Marking Rubric](https://i.imgur.com/jcl6Px4.png)
