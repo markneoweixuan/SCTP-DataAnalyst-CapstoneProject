@@ -1,0 +1,76 @@
+Bishmer — Today at 08:45
+Data Science Project Presentation Checklist
+
+1. Project Selection and Dataset Requirements
+- Is the dataset a minimum of 1,000 records or does it integrate multiple datasets with adequate scope and detail?
+- Is all the data real, not artificial or synthetic?
+- Does the dataset provide a meaningful basis for analysis aligned with the client's industry and objectives?
+- Did you clearly identify your role and articulate the scenario for the use of the dataset, as well as the goal of the analysis?
+---
+2. Data Understanding and Preparation
+- Have you analyzed the dataset(s) to identify insights and potential business intelligence (BI) or analytical solutions?
+- Have you performed data cleaning, including handling null values, missing data, and inconsistencies?
+- Have you normalized and transformed the data to ensure it is ready for analysis?
+---
+3. Exploratory Data Analysis (EDA)
+- Have you articulated the size and shape of the dataset?
+- Have you assessed data quality, including null values or missing data?
+- Have you documented the data types of all features?
+- Have you selected a target column for analysis?
+- Have you provided descriptive statistics for the dataset?
+- Have you identified and commented on outliers within the dataset?
+- Have you created plots for each categorical column to show feature distributions?
+- Have you generated appropriate charts for numerical features, both individually and in relation to the target column?
+- Have you calculated and displayed correlations between numerical features and the target column?
+- Have you summarized key insights and implications from the EDA process?
+--- 
+4. Data Visualization
+- Have you created at least five visualizations relevant to the project objectives?
+- Have you used Python libraries (e.g., matplotlib, seaborn, plotly) or Power BI to develop visualizations?
+- Have you explained the choice of visualization type and tool for each?
+---
+5. Analytical Pipeline Development
+- Have you designed and implemented an analytical or BI pipeline to address the client’s challenges using cleaned and processed data?
+---
+6. Model Development and Performance Evaluation
+- Have you built a model suited to the project’s needs (e.g., regression, classification)?
+- Have you employed at least 3 metrics appropriate to either a classification or a regression task (as appropriate to your situation)?
+- Have you mentioned if certain metrics are sub-optimal but required?
+- Have you explained why the chosen metric(s) are ideal for the project and drawn distinctions if applicable?
+---
+7. Documentation and Recommendations
+- Have you summarized findings from the analysis and EDA process?
+- Have you provided clear, actionable recommendations tailored to the client’s needs?
+---
+8. Material Preparation
+- Have you prepared your project materials in one of the following formats:
+-- Power BI: At least three pages, including a summary dashboard.
+-- Jupyter Notebook: At least five graphics and 300 words of markdown text.
+- Have you presented the data insights in a storytelling format tailored to the target audience?
+- Have you optionally used presentation or slide-sharing software if preferred?
+---
+9. Submission Guidelines
+- Have you ensured all minimum criteria are met to avoid an incomplete assessment?
+- Have you double-checked that:
+-- Dataset(s) meet the size and quality requirements.
+-- All EDA, visualizations, and models are documented clearly.
+-- The report aligns with storytelling and client-focused objectives?
+---
+10. Tools and Resources
+- Have you used any combination of the following tools:
+-- Python 3 (numpy, pandas, matplotlib, seaborn, scikit-learn, plotly)
+-- Jupyter Notebook or Google Colaboratory
+-- Power BI Desktop/Service
+-- Microsoft Excel
+-- SQL (any dialect)?
+- Have you consulted with the trainer if additional tools are needed?
+---
+11. Report Preparation
+- Have you drafted and scripted a 10-12 minute report on your findings?
+-- Have you rehearsed and timed it?
+-- And re-rehearsed it?
+-- Are you prepared to receive questions about the report?
+-- Did you include a significant section regarding challenges you encountered and new material you learned or discovered?
+-- Have you mentioned what you would do with additional time or resources?
+-- Do you have your project repo up on Github with a full README.md including screenshots and writeup and did you link from Github to your LinkedIn in the README.md?
+---
